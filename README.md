@@ -35,6 +35,7 @@ in Access control (IAM), select Add > Add role assignment, on the Role tab, sele
 
 #Configuration in project
 in appsettings.json file, add the url from Azure App Configuration.
+when running locally don't forget to put your Azure credentials in visual studio options.
 
 ```
 
