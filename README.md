@@ -12,11 +12,11 @@
   <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
-## ??????? About the project
+## 👩🏻‍💻 About the project
 
 - <p style="color: blue;">API to get the configuration value from the Azure app configuration.</p>
 
-## ?? Getting started
+## 💻 Getting started
 
 **Clone the project and access the folder**
 
@@ -38,10 +38,10 @@ in appsettings.json file, add the url from Azure App Configuration.
 
 ```
 
-## ?? License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with ?? &nbsp;by Carolina Ribeiro ?? &nbsp;[See my linkedin](https://www.linkedin.com/in/ana-carolina-ribeiro-santos/)
+Made with 💜 &nbsp;by Carolina Ribeiro 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/ana-carolina-ribeiro-santos/)
