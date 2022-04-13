@@ -21,7 +21,7 @@
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/cahribeiro/AzureConfiguration.git && cd NLWHeatWeb
+$ git clone https://github.com/cahribeiro/AzureConfiguration.git && cd AzureConfiguration
 ```
 
 **Follow the steps below**
